@@ -1,7 +1,7 @@
 ---
 name: Template_Summer2021
 about: About Summer2021
-title: request
+title: Request_Summer2021
 labels: enhancement, good first issue
 assignees: rain-sumire
 
