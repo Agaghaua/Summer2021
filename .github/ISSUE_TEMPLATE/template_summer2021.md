@@ -1,12 +1,12 @@
 ---
 name: Template_Summer2021
 about: About Summer2021
-title: Request_Summer2021
+title: Request
 labels: enhancement, good first issue
 assignees: rain-sumire
 
 ---
-
+My Courses
 ---
 #### UC Berkeley
 CS61A - 计算机程序的构造与解释  
