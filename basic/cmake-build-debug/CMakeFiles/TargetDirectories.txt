@@ -1,0 +1,3 @@
+/Users/shaymin/CLionProjects/Network/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shaymin/CLionProjects/Network/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shaymin/CLionProjects/Network/cmake-build-debug/CMakeFiles/Network.dir
