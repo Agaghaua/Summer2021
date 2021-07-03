@@ -1,3 +1,9 @@
+部署工作：
+1.请先在issue按照模板填写自己选择的课程。
+2.在`main`分支下的profile文件夹新建 your_github_id.md文件，内容为issue的你的请求内容。
+3.参与discussion的讨论，在“Hello”下发表评论。
+4.创建自己的project，内容自定。
+
 ### A list of courses:
 ---
 #### UC Berkeley
